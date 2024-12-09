@@ -2,7 +2,7 @@
 
 ## $${\color{darkred}\textit{AKA "F\*ck This Sh\*t: The Repository"}}$$
 
-**${\color{red}\text{Copyright (C) 2023-F\*ck My Life - Hendik (NOT FARID!) একের}}$**
+**${\color{red}\text{Copyright (C) 2023-F\*ck My Life  একের}}$**
 
 ${\color{darkred}\text{Yo, whoever the f\*ck you are, welcome to my personal hell. This ain't your typical GitHub repo, this is where I dump my f\*cked up thoughts, my weeb sh\*t, and the diary of a soul that's been ripped apart and left to rot. Yeah, it's that depressing.}}$
 
