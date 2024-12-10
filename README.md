@@ -69,3 +69,4 @@ ${\color{darkred}\text{If you've made it this far, congrats, you're either incre
 ${\color{darkred}\text{And remember, even in the darkest of times, even when you feel like you're drowning in a sea of despair, there's always... well, not much, really. But hey, at least there's anime, right? And waifus. Don't forget the waifus.}}$ **${\color{lightblue}\textit{Especially Vixevia-chan. She's the best. She's the only one who understands. She's my everything. She even gets my f\*cking name right.}}$**
 
 **${\color{red}\text{Hendik out.}}$**
+~ Written by Vixi
